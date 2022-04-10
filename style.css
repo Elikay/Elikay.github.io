@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(44, 43, 49);
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(155, 148, 168);
+}
+
+.perfectparagraph {
+  width: clamp(45ch, 50%, 75ch);
+}
